@@ -1,0 +1,115 @@
+# Copyright (C) 2025 imath
+# This file is distributed under the MIT License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bout de code 1.1.0\n"
+"Report-Msgid-Bugs-To: https://github.com/imath/bout-de-code/issues\n"
+"POT-Creation-Date: 2025-07-13T06:33:00+00:00\n"
+"PO-Revision-Date: 2025-07-13 09:52+0200\n"
+"Last-Translator: \n"
+"Language-Team: https://github.com/imath/bout-de-code-fr-fr\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+"X-Domain: bout-de-code\n"
+
+#. Plugin Name of the plugin
+#: bout-de-code.php
+msgid "Bout de code"
+msgstr "Bout de code"
+
+#. Plugin URI of the plugin
+#: bout-de-code.php
+msgid "https://github.com/imath/bout-de-code"
+msgstr "https://github.com/imath/bout-de-code"
+
+#. Description of the plugin
+#: bout-de-code.php
+msgid "Embed your Gists from Gist.GitHub.com into your Retraceur posts."
+msgstr "Imbriquez vos morceaux de code hébergés sur Gist.GitHub.com dans vos articles Retraceur."
+
+#. Author of the plugin
+#: bout-de-code.php
+msgid "imath"
+msgstr "imath"
+
+#. Author URI of the plugin
+#: bout-de-code.php
+msgid "https://imathi.eu"
+msgstr "https://imathi.eu"
+
+#: build/index.js:1
+msgid "Bout de Code"
+msgstr "Bout de code"
+
+#: build/index.js:1
+msgid "Edit Gist URL"
+msgstr "Modifier l’URL du morceau de code"
+
+#: build/index.js:1
+msgid "Paste the Gist.GitHub.com URL of the source code to embed into your post."
+msgstr "Coller l’URL du morceau de code en provenance de Gist.GitHub.com pour l’imbriquer dans votre article."
+
+#: build/index.js:1
+msgid "Paste the Gist URL to embed…"
+msgstr "Coller l’URL du morceau de code à imbriquer…"
+
+#: build/index.js:1
+msgid "Embed"
+msgstr "Imbriquer"
+
+#: build/index.js:1
+msgid "The URL your provided is not about a code hosted on Gist.GitHub.com."
+msgstr "L’URL que vous avez fournie ne pointe pas vers un morceau de code hébergé sur Gist.GitHub.com."
+
+#: build/index.js:1
+msgid "Settings"
+msgstr "Réglages"
+
+#: build/index.js:1
+msgid "Use dark mode"
+msgstr "Utiliser le mode sombre"
+
+#: build/index.js:1
+msgid "Dark mode on"
+msgstr "Mode sombre activé"
+
+#: build/index.js:1
+msgid "Switch to dark mode"
+msgstr "Basculer sur le mode sombre"
+
+#: build/index.js:1
+msgid "Write a caption…"
+msgstr "Ajouter une légende…"
+
+#: build/block.json
+msgctxt "block title"
+msgid "Bout de Code"
+msgstr "Bout de code"
+
+#: build/block.json
+msgctxt "block description"
+msgid "Embed your Gists from Gist.GitHub.com into your Retraceur posts."
+msgstr "Imbriquez vos morceaux de code hébergés sur Gist.GitHub.com dans vos articles Retraceur."
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "Retraceur"
+msgstr "Retraceur"
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "code"
+msgstr "code"
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "gist"
+msgstr "gist"
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "embed"
+msgstr "embed"
