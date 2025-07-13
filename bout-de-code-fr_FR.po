@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bout de code 1.1.0\n"
 "Report-Msgid-Bugs-To: https://github.com/imath/bout-de-code/issues\n"
-"POT-Creation-Date: 2025-07-13T06:33:00+00:00\n"
-"PO-Revision-Date: 2025-07-13 09:52+0200\n"
+"POT-Creation-Date: 2025-07-13T10:56:03+00:00\n"
+"PO-Revision-Date: 2025-07-13 13:01+0200\n"
 "Last-Translator: \n"
 "Language-Team: https://github.com/imath/bout-de-code-fr-fr\n"
 "Language: fr_FR\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Domain: bout-de-code\n"
 
 #. Plugin Name of the plugin
-#: bout-de-code.php
+#: bout-de-code.php build/index.js:1
 msgid "Bout de code"
 msgstr "Bout de code"
 
@@ -28,7 +28,9 @@ msgstr "https://github.com/imath/bout-de-code"
 #. Description of the plugin
 #: bout-de-code.php
 msgid "Embed your Gists from Gist.GitHub.com into your Retraceur posts."
-msgstr "Imbriquez vos morceaux de code hébergés sur Gist.GitHub.com dans vos articles Retraceur."
+msgstr ""
+"Imbriquez vos bouts de code hébergés sur Gist.GitHub.com dans vos "
+"articles Retraceur."
 
 #. Author of the plugin
 #: bout-de-code.php
@@ -41,20 +43,19 @@ msgid "https://imathi.eu"
 msgstr "https://imathi.eu"
 
 #: build/index.js:1
-msgid "Bout de Code"
-msgstr "Bout de code"
-
-#: build/index.js:1
 msgid "Edit Gist URL"
-msgstr "Modifier l’URL du morceau de code"
+msgstr "Modifier l’URL du bout de code"
 
 #: build/index.js:1
-msgid "Paste the Gist.GitHub.com URL of the source code to embed into your post."
-msgstr "Coller l’URL du morceau de code en provenance de Gist.GitHub.com pour l’imbriquer dans votre article."
+msgid ""
+"Paste the Gist.GitHub.com URL of the source code to embed into your post."
+msgstr ""
+"Coller l’URL du bout de code en provenance de Gist.GitHub.com pour "
+"l’imbriquer dans votre article."
 
 #: build/index.js:1
 msgid "Paste the Gist URL to embed…"
-msgstr "Coller l’URL du morceau de code à imbriquer…"
+msgstr "Coller l’URL du bout de code à imbriquer…"
 
 #: build/index.js:1
 msgid "Embed"
@@ -62,7 +63,9 @@ msgstr "Imbriquer"
 
 #: build/index.js:1
 msgid "The URL your provided is not about a code hosted on Gist.GitHub.com."
-msgstr "L’URL que vous avez fournie ne pointe pas vers un morceau de code hébergé sur Gist.GitHub.com."
+msgstr ""
+"L’URL que vous avez fournie ne pointe pas vers un bout de code hébergé "
+"sur Gist.GitHub.com."
 
 #: build/index.js:1
 msgid "Settings"
@@ -86,13 +89,15 @@ msgstr "Ajouter une légende…"
 
 #: build/block.json
 msgctxt "block title"
-msgid "Bout de Code"
+msgid "Bout de code"
 msgstr "Bout de code"
 
 #: build/block.json
 msgctxt "block description"
 msgid "Embed your Gists from Gist.GitHub.com into your Retraceur posts."
-msgstr "Imbriquez vos morceaux de code hébergés sur Gist.GitHub.com dans vos articles Retraceur."
+msgstr ""
+"Imbriquez vos bouts de code hébergés sur Gist.GitHub.com dans vos "
+"articles Retraceur."
 
 #: build/block.json
 msgctxt "block keyword"
